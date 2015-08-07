@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	cropToFit="false"
+	galleryTitle=""
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(0,0,0,1)"
+	thumbFrameColor="rgba(0,102,102,.5)"
+	showExpandButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+	indexPageName="lifedrawings2.html"
+
+>
+  <image imageURL="images/1.jpg"
+	thumbURL="thumbs/1.jpg"
+	linkURL="images/1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/1.jpg">
+    <title><![CDATA[Nude - 30 min. pencil on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/2.jpg"
+	thumbURL="thumbs/2.jpg"
+	linkURL="images/2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/2.jpg">
+    <title><![CDATA[Jon - 30 min. pencil on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/5.jpg"
+	thumbURL="thumbs/5.jpg"
+	linkURL="images/5.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/5.jpg">
+    <title><![CDATA[Damian - 30 min. pencil on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/6.jpg"
+	thumbURL="thumbs/6.jpg"
+	linkURL="images/6.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/6.jpg">
+    <title><![CDATA[Damian - 30 min. pencil on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/9.jpg"
+	thumbURL="thumbs/9.jpg"
+	linkURL="images/9.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/9.jpg">
+    <title><![CDATA[Bianca - 30 min. pencil on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/12.jpg"
+	thumbURL="thumbs/12.jpg"
+	linkURL="images/12.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/Ena/Documents/Amela Subasic Website/Life Drawings/12.jpg">
+    <title><![CDATA[Lindsay - 10 min pencil sketch on paper]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
